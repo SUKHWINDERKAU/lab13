@@ -146,7 +146,7 @@ aside img[alt$="block"] {
 
 .new-feature {
 	padding-left: 25px;
-	background-image: url("../images/new.png");
+	background-image: url("new.png");
 	background-repeat: no-repeat;
 	background-position: top left;
 }
@@ -157,7 +157,7 @@ aside img[alt$="block"] {
 
 [rel="external"] {
 	padding-right: 20px;
-	background-image: url("../images/extlink.png");
+	background-image: url("extlink.png");
 	background-repeat: no-repeat;
 	background-position: top right;
 }
